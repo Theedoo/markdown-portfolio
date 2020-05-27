@@ -1,1 +1,1 @@
-[geehub](https://github.com/theedoo)
+[geehub](https://github.com)
